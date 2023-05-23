@@ -12,7 +12,7 @@ This project is a showcase of using PyOpenGL with Pygame to create a simple game
 
 This showcase demonstrates the integration of PyOpenGL and Pygame libraries to create a simple interactive application or game. It provides a starting point for building your own projects that leverage the power of hardware-accelerated graphics with PyOpenGL and the convenience of game development with Pygame.
 
-![Screenshot from 2023-05-24 02-03-13](https://github.com/decemyn/pygame-opengl-simple-scene-showcase/assets/57295704/2d9c157c-af8e-40cc-94a9-22b91561b6b3)
+![Screenshot from 2023-05-24 02-03-13](https://github.com/decemyn/pygame-opengl-simple-scene-showcase/assets/57295704/d62fbcdc-516d-4344-84bc-3392f7096201)
 
 ## Usage
 
